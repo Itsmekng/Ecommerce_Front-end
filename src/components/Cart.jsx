@@ -12,8 +12,8 @@ function Cart(){
                 <div className="block sm:flex w-full justify-between">
                     <div className="w-full sm:w-7/12 sm:mb-0 mb-8">
                         <div className="border-1 px-4 py-2 flex bg-green-400 text-black font-normal gap-4 items-center mb-8"><img className="w-8" src="/src/assets/icons/discount.png" alt="" /> You are saving ₹5148 on this order</div>
-                        <div className="block sm:flex sm: px-6 py-4 bg-white gap-5 mb-4">
-                            <img className="mb-4 sm:mb-0" src="https://images.bewakoof.com/t1080/men-s-lilac-bloom-purple-wave-graphic-printed-t-shirt-689705-1758290313-1.jpg" alt="" />
+                        <div className="block sm:flex px-6 py-4 bg-white gap-5 mb-4">
+                            <img className="mb-4 sm:mb-0 sm:w-[6vw]" src="https://images.bewakoof.com/t1080/men-s-lilac-bloom-purple-wave-graphic-printed-t-shirt-689705-1758290313-1.jpg" alt="" />
                             <div className="w-full">
                                 <h1 className="text-2xl">Bewakoof®</h1>
                                 <h4 className="text-sm mb-2 sm:mb-0">Men's Lilac Bloom Purple Wave Graphic Printed T-shirt</h4>

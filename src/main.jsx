@@ -7,7 +7,7 @@ import Single_product from './components/Single_product.jsx'
 import Shop_page from './components/Shop_page.jsx'
 import Login from './components/Login.jsx'
 import Checkout from './components/Liked.jsx'
-import Cart from './components/cart.jsx'
+import Cart from './components/Cart.jsx'
 import Register from './components/Register.jsx'
 import './index.css'
 

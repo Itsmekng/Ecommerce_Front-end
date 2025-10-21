@@ -1,4 +1,4 @@
-import Show_card from "../models/show_card"
+import Show_card from "../models/Show_card"
 
 function Home(){
     return (

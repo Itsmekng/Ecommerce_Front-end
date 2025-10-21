@@ -1,7 +1,7 @@
 import Header from "../models/Header"
 import Footer from "../models/Footer"
 import Appbar from "../models/Appbar"
-import Show_card from "../models/show_card"
+import Show_card from "../models/Show_card"
 
 function Single_product(){
     return (
